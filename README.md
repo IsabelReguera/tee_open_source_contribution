@@ -1,4 +1,4 @@
-# tee_open_source_contribution
+
 # TEE — Open-Source Contributions
 
 **Satellite imagery · Geospatial data · Machine learning · Clustering**
