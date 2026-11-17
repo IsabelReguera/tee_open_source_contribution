@@ -71,4 +71,4 @@ Upstream project maintainer: [TEE / ucam-eo](https://github.com/ucam-eo/TEE).
 - [PR #34 — Gothenburg sample data](https://github.com/ucam-eo/TEE/pull/34)
 - [PR #39 — documentation and acknowledgement of the Gothenburg dataset](https://github.com/ucam-eo/TEE/pull/39)
 
-*Portfolio write-up by Alice Piacentini. All source code and datasets remain in their respective upstream repositories under the applicable licenses.*
+*Portfolio write-up by Isabel Reguera. All source code and datasets remain in their respective upstream repositories under the applicable licenses.*
